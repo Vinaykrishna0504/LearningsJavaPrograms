@@ -1,7 +1,7 @@
 package Practice;
 import java.util.Scanner;
 
-public class Rectange {
+public class Rectangle {
     public static void main(String[] args) {
 
 //        Calculate area of a rectangle
