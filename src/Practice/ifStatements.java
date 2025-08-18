@@ -68,9 +68,6 @@ public class ifStatements {
             System.out.println("You are NOT a student");
         }
 
-
-
-
         scanner.close();
     }
 }
